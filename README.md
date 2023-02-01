@@ -1,3 +1,2 @@
-Hi,
-Welcome to my profile on Github.
-I am a Software Engineer and also a Mentor for a hobby. Since graduated from Polytechnic State of Batam on 2016, i have been working across multiple companies with multiple job task start from developed a Desktop Application to assesed and analyzed vulnerabilities. Now, I am learning and developing an application with React, Laravel. 
+Hi, Welcome to my page on Github. <br />
+My name is Rio. I am a software engineer and also a mentor as a hobby. Since graduating from the State Polytechnic of Batam in 2016, I've worked in a variety of companies on tasks ranging from developing a desktop application to assessing and analyzing vulnerabilities. Now I'm learning to be a Fullstack Developer using React, Laravel, and other technologies...
